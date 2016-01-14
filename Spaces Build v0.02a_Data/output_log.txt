@@ -1,0 +1,137 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5878]
+    Renderer: NVIDIA GeForce GTX 970
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 4890x1680 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 53a4 -> priority: 1 
+starting new level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.858005 ms
+USE_JSONFX_UNITY_IOS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+PubNub-CSharp-UnityWin/3.6.8.8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Initilizing new GameObject
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+instantiated pubnub
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+jade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 757.
+Total: 0.402924 ms (FindLiveObjects: 0.015248 ms CreateObjectMapping: 0.022873 ms MarkObjects: 0.242223 ms  DeleteObjects: 0.122284 ms)
+
+Platform assembly: C:\Users\Dylan\Documents\Unity Projects\Spaces v0.02-Persistence By Name\Spaces Build v0.02a_Data\Managed\Boo.Lang.dll (this message is harmless)
+DateTime 1/9/2016 2:02:19 AM, In Url process request
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, yielding: 15 sec timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, URL NonSub http://pubsub.pubnub.com/v2/history/sub-key/sub-c-e186ee34-b00f-11e5-ae71-02ee2ddab7fe/channel/jade?count=3&uuid=83327872-a40c-462c-9509-a12da21855f2&pnsdk=PubNub-CSharp-UnityWin%2F3.6.8.8 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, SetComplete Complete NonSubscribe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, WWW Sub NonSubscribe Message: [["levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)parseEnd"],14523232747957668,14523232813351320]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, WWW Sub request2 DetailedHistory NonSubscribe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, Raising Event of type : NonSubscribe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, In handler of event cea DetailedHistory RequestType CoroutineCompleteHandler System.String
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM NonSub Message=[["levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)parseEnd"],14523232747957668,14523232813351320]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, jsonString = [["levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)parseEnd"],14523232747957668,14523232813351320]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+DateTime 1/9/2016 2:02:19 AM, after _jsonPluggableLibrary.SerializeToJsonString [["levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)parseEnd"],"14523232747957668","14523232813351320","jade"]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+history: [["levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)parseEnd","levelObjectParseStartobj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)parseEnd"],"14523232747957668","14523232813351320","jade"]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+updated level object string:obj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+objectsString: obj15Wood Foundation(0.0, 0.1, -7.6)obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+obj15Wood Foundation(-4.2, 0.1, -7.6)obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+obj11Wood Pillar(-2.1, 2.2, -5.5)obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+obj11Wood Pillar(2.1, 2.2, -5.5)obj09Wood Wall(0.0, 0.1, -5.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+obj09Wood Wall(0.0, 0.1, -5.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
